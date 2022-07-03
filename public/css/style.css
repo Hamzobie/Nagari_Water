@@ -1,0 +1,74 @@
+body {
+  background-color: #2B4570;
+}
+header {
+  background-color: #7180AC;
+  padding: 10px 20px;
+}
+.title-site{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #fff;
+}
+nav.menus {
+    background-color: #E49273;
+    padding: 10px;
+}
+nav.menus ul {
+    margin: 0;
+    padding: 0;
+}
+
+nav.menus ul li {
+    display: inline-block;
+}
+nav.menus ul li a {
+    display: block;
+    padding: 3px 7px;
+    color: #fff;
+}
+nav.menus ul li a:hover, nav.menus ul li a:focus{
+    text-decoration: none;
+    background-color: #c0392b;
+    color: #fff;
+}
+
+#site-content{
+    background-color: #A8D0DB;
+    padding: 40px;
+    margin-top: 20px;
+
+}
+
+
+aside {
+    padding: 10px 20px;
+    margin-top: 20px;
+    background-color: #A8D0DB;
+}
+aside ul {
+    margin:0;
+    padding:0;
+}
+aside li {
+    list-style: none;
+    padding: 0;
+    margin:0;
+}
+
+h3 {
+    border-bottom: 4px solid #E49273;
+    padding-bottom: 4px;
+}
+
+footer.copyright {
+    padding: 10px 20px;
+    font-size: 12px;
+}
+#data{
+  margin-top: 25px;
+}
+.form{
+  background-color: white;
+  margin-top: 20px;
+  padding: 10px 10px 10px 10px;
+}
